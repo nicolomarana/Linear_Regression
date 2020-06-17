@@ -1,0 +1,7 @@
+Sources studied/used (some partially) for this repository:
+ 
+
+- Brownlee Jason : Machine Learning Mastery Books
+- Gareth James: An Introduction to Statistical Learning
+- Ng Andrew: Machine Learning Standford (Audit Course Coursera)
+- Norwig Peter & Stuart Russel: Artificial Intelligence - A modern Approach
